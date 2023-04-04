@@ -4,6 +4,10 @@
   margin: 0 auto;
 }
 
+.col {
+    padding: 0 12px;
+}
+
 p iframe {
   width: 100%;
 }
